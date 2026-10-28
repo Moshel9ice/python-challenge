@@ -7,4 +7,7 @@ def list_sum(numbers):
         
     
     return total
-print(list_sum([1,2,3,4,5]))
+
+print(list_sum([2, 4, 6, 8]))
+print(list_sum([[-5, 10, -2]]))
+print(list_sum([]))
